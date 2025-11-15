@@ -5,3 +5,8 @@ Create and activate a virtual environment:
    source .venv/bin/activate
    pip install -r requirements.txt
    python main.py
+
+then to activate, run these commands
+cd CyberEye
+source venv/bin/activate
+/run.sh
