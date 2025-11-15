@@ -9,4 +9,4 @@ Create and activate a virtual environment:
 then to activate, run these commands
 cd CyberEye
 source venv/bin/activate
-/run.sh
+./run.sh
