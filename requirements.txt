@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+whois
+PyPDF2
+python-docx
+colorama
+Flask
+jinja2
+aiohttp
+dnspython
