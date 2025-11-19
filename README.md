@@ -3,7 +3,7 @@
 ## Overview
 
 CyberEye is an open-source OSINT (Open-Source Intelligence) machine designed to automate information gathering from publicly available sources. It assists cybersecurity learners, analysts, and investigators in collecting data ethically, efficiently, and in a structured manner.
-CyberEye brings together essential OSINT capabilities—such as email leak investigation, username lookups, and domain reconnaissance—into one unified tool. Instead of manually checking multiple websites, users can perform these tasks seamlessly and quickly, with results presented through a clean and easy-to-understand HTML report. This makes CyberEye both a time-saving and educational OSINT companion.
+CyberEye brings together essential OSINT capabilities such as email leak investigation, username lookups, and domain reconnaissance into one unified tool. Instead of manually checking multiple websites, users can perform these tasks seamlessly and quickly, with results presented through a clean and easy-to-understand HTML report. This makes CyberEye both a time-saving and educational OSINT companion.
 
 ---
 
